@@ -13,7 +13,7 @@ then visit http://localhost:5173
 
 check messages in terminal.
 
-## Project building steps
+## How was the project built
 
 This is a project initialized through remix-vite, template originated from [remix-vite docs](https://remix.run/docs/en/main/future/vite)
 
